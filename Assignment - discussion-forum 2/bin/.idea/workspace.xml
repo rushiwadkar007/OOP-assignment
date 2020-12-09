@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22fd3ee3-d67f-46a3-94b5-41dddea34adf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="src" />
+  </component>
+  <component name="ProjectId" id="1VpTguf5G9tUD3NEG3ljzjGAuDZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="src" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.forum.main.DiscussionForum" />
+      <module name="discussion-forum 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22fd3ee3-d67f-46a3-94b5-41dddea34adf" name="Default Changelist" comment="" />
+      <created>1577949150371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577949150371</updated>
+      <workItem from="1577949154677" duration="26943000" />
+      <workItem from="1578028724387" duration="33646000" />
+      <workItem from="1578117718690" duration="19998000" />
+      <workItem from="1578144616638" duration="8902000" />
+      <workItem from="1578205876258" duration="7879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="90" key="#Notifications" timestamp="1578060133858">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="90" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1578060133858" />
+    <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578144659253">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1578144659253" />
+    <state x="521" y="320" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578045325142">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="521" y="320" width="397" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.860@0.0.1440.860" timestamp="1578045325142" />
+    <state x="500" y="187" key="FileChooserDialogImpl" timestamp="1578147302651">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="187" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1578147302651" />
+    <state width="1396" height="217" key="GridCell.Tab.0.bottom" timestamp="1578213926798">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="217" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1578213926798" />
+    <state width="1396" height="217" key="GridCell.Tab.0.center" timestamp="1578213926798">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="217" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1578213926798" />
+    <state width="1396" height="217" key="GridCell.Tab.0.left" timestamp="1578213926798">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="217" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1578213926798" />
+    <state width="1396" height="217" key="GridCell.Tab.0.right" timestamp="1578213926798">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="217" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1578213926798" />
+    <state x="387" y="134" width="706" height="592" key="NewModule_or_Project.wizard" timestamp="1578147333524">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="387" y="134" width="706" height="592" key="NewModule_or_Project.wizard/0.0.1440.860@0.0.1440.860" timestamp="1578147333524" />
+    <state x="200" y="6" key="SettingsEditor" timestamp="1578146025432">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="6" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1578146025432" />
+    <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1578205875025">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="256" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1578205875025" />
+    <state x="102" y="55" key="new project wizard" timestamp="1578147287125">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="102" y="55" key="new project wizard/0.0.1440.860@0.0.1440.860" timestamp="1578147287125" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$src.ic" NAME="src Coverage Results" MODIFIED="1578067315911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
